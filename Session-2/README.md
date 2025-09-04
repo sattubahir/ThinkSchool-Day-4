@@ -33,7 +33,7 @@ This file contains fundamental JavaScript code snippets demonstrating key progra
 - Simple `if`, `if-else`, `if-else if-else` chains.
 - Logical operators and nested conditions.
 
-**This Folder Coontains Subbmisssion of Session-2**
+**This Folder Contains Task of Session-2**
 
 
 
