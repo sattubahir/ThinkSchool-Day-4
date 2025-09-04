@@ -1,4 +1,4 @@
-#  SEssion-3-task Job Application Form - DOM Manipulation
+#  Session-3-task Job Application Form - DOM Manipulation
 
 This project demonstrates how to create an interactive Job Application form using HTML, inline CSS, and JavaScript DOM manipulation.
 
@@ -31,7 +31,7 @@ This project demonstrates how to create an interactive Job Application form usin
 - Inline CSS for styling
 - DOM
 
-## What I Will Learn
+## What I Learn
 
 - How to select HTML elements in JavaScript using `getElementById`.
 - How to listen to and handle DOM events such as form submissions.
